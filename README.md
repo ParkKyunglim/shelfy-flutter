@@ -58,4 +58,9 @@
 - **독서 진행 시각화** <br>완료한 책들은 메인 화면에 수직으로 쌓이며, 누적된 책 높이(cm)를 통해 독서량을 시각적으로 확인할 수 있습니다.<br>
 - **모바일 최적화** <br>직관적이고 깔끔한 UI로 언제 어디서나 손쉽게 독서 기록을 관리할 수 있습니다.<br>
 
+
+
+## 📱 Screenshots
+![image](https://github.com/user-attachments/assets/1c01335a-fcdd-4297-8e50-fb65970c1b59)
+
 <br> <img align="center" width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4D77B2FF&fontColor=E60029&reversal=false&animation=fadeIn&fontAlignY=64&section=footer" style="width: 100%; height: 100%;"/>
